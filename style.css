@@ -69,3 +69,26 @@ body {
     padding: 15px;
     background: #FFFAFA;
 }
+
+.container1 {
+    height: 1200px;
+    min-width: none;
+    background-color: #363636;
+    margin: 80px;
+    padding: 15px;
+}
+
+.sobre_cc {
+    padding: 15px;
+    font-size: 28px;
+}
+
+.meme {
+    margin-right: 90px;
+    margin-left: 330px;
+    font-size: 20px;
+}
+
+.rodapé {
+    padding-left: 50px;
+}
