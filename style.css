@@ -71,7 +71,7 @@ body {
 }
 
 .container1 {
-    height: 1200px;
+    height: 1100px;
     min-width: none;
     background-color: #363636;
     margin: 80px;
@@ -86,9 +86,28 @@ body {
 .meme {
     margin-right: 90px;
     margin-left: 330px;
-    font-size: 20px;
+    font-size: 18px;
+}
+
+.fim {
+    font-size: 28px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.boulos {
+    padding-right: 50px;
+    text-align: justify;
+    font-size: larger;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.texto_fim {
+    padding-top: 40px;
+    margin-left: 80px;
 }
 
 .rodapé {
-    padding-left: 50px;
+    padding-left: 90px;
 }
